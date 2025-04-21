@@ -99,9 +99,10 @@ plt.ylabel("Loss")
 plt.grid(True)
 plt.show()
 ```
-<H3>Output:</H3>
-![Screenshot 2025-04-21 083620](https://github.com/user-attachments/assets/af761416-a01b-49b6-a204-7ffb92f920b6)
-![Screenshot 2025-04-21 083656](https://github.com/user-attachments/assets/509a266b-db74-4ec9-930e-d31e8db15ce0)
+Output:
+![Screenshot 2025-04-21 083620](https://github.com/user-attachments/assets/aa5d70f2-c023-4b67-8049-ad06676de81c)
+![Screenshot 2025-04-21 083656](https://github.com/user-attachments/assets/0de8e519-7b83-4f4e-b534-0932a4a7f5b6)
+
 
 <H3> Result:</H3>
 Thus, XOR classification problem can be solved using MLP in Python 
