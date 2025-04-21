@@ -36,13 +36,13 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
 Step 4 : Test for the XOR patterns.
 
 <H3>Program:</H3>
+'''
 1.Importing packages:
-```
 import numpy as np
 import matplotlib.pyplot as plt
 ```
+'''
 2.Model initialization:
-```
 x=np.array([[0,0],[0,1],[1,0],[1,1]])
 y=np.array([[0],[1],[1],[0]])
 
@@ -61,8 +61,8 @@ def sigmoid_function(x):
 def sigmoid_derivative(x):
   return x*(1-x)
 ```
+'''
 3.Model mechanism:
-```
 losses=[]
 
 for epochs in range(10000):
