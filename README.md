@@ -36,8 +36,9 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
 Step 4 : Test for the XOR patterns.
 
 <H3>Program:</H3>
-```
+
 1.Importing packages:
+```
 import numpy as np
 import matplotlib.pyplot as plt
 ```
